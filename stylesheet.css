@@ -41,13 +41,18 @@ body{
 	background-repeat: no-repeat;
 }
 h1{
-	color: #000000;
+	color: #fff;
 	font-style: italic;
 	font-family: serif;
 	font-weight: bolder;
 	font-size: 40px;
-	
-	
+	text-align: center;
+}
+
+p{
+	color:#ff00ff;
+	font-size: 30px;
+	text-align: center;
 }
 .challenge{
 	width: 400px;

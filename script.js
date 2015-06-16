@@ -1,1 +1,6 @@
-console.log("Hey! This works!");
+
+
+function cubeIt(){
+	var cubed = 3*3*3;
+	alert (cubed);
+}
